@@ -1,2 +1,2 @@
 Use only for reference!
-Do not copy the soulution!
+Do not copy the solution!
